@@ -1,0 +1,316 @@
+*{
+    margin: 0%;
+    padding: 0%;
+}
+.sec1{
+    /* border: 2px solid; */
+    height: 200px;
+    display: flex;
+    justify-content: space-between;
+}
+.sec1 div+div{
+    /* border: 2px solid; */
+    height: 100px;
+    margin-right: 10%;
+    margin-top: 3%;
+}
+.sec1 ol{
+    list-style: none;
+    font-size: 11px;
+    font-weight: bold;
+    letter-spacing: 1px;
+    display: flex;
+    gap: 45px;
+    padding: 35px;
+    cursor: pointer;
+}
+.sec1 img{
+    margin-top: 40%;
+    margin-left: 100%;
+    cursor: pointer;
+}
+.sec2{
+    /* border: 2px solid; */
+    height: 600px;
+    background-image: url(./Rayromano/Assests/Ray+Romano+Loft+renovation+nyc+brooklyn+hamptons+luxury+construction.jpg);
+    background-size: 100% 100%;
+    background-attachment: fixed;
+}
+.sec2 div{
+    /* border: 2px solid red; */
+    /* background-color: white; */
+    opacity: 80%;
+    height: 80px;
+    width: 50%;
+    margin-left: 10%;
+    align-content: center;
+}
+.sec2 div+div{
+    margin-top: 5%;
+}
+.sec2 h1{
+    margin-top: 10%;
+    opacity: 80%;
+    height: 80px;
+    margin-left: 4%;
+    letter-spacing: 10px;
+    align-content: center;
+    /* font-family: futura-pt; */
+    font-family: sans-serif;
+    /* font-size: 2.8em; */
+    font-weight: 500;
+    font-size: 30px;
+    background-color: rgba(255, 255, 255, .6);
+}
+.sec2 p{
+    margin-left: 4%;
+    letter-spacing: 2px;
+}
+.sec3{
+    /* border: 2px solid; */
+    height: 400px;
+}
+.sec3 div{
+    margin-top: 10%;
+    margin-left: 12%;
+    line-height: 20px;
+}
+.sec3 h1{
+    letter-spacing: 3px;
+}
+.sec3 p{
+    color: grey ;
+    font-size: 18px;
+}
+.sec4{
+    /* border: 2px solid; */
+    height: 600px;
+    background-image: url(./Rayromano/Assests/2.jpg);
+    background-size: 100% 100%;
+    background-attachment: fixed;
+}
+.sec4 div{
+    /* border: 2px solid red; */
+    /* background-color: white; */
+    opacity: 80%;
+    height: 80px;
+    width: 50%;
+    margin-left: 10%;
+    margin-top: 10%;
+    align-content: center;
+    letter-spacing: 5px;
+    letter-spacing: 10px;
+    font-family: futura-pt;
+    font-size: 15px;
+}
+.sec4 h1{
+    margin-top: 10%;
+    opacity: 80%;
+    height: 80px;
+    margin-left: 4%;
+    letter-spacing: 10px;
+    align-content: center;
+    background-color: rgba(255, 255, 255, .6);
+    margin-left: 4%;
+}
+.sec5{
+    /* border: 2px solid; */
+    height: 400px;
+}
+.sec5 div{
+    /* border: 2px solid red; */
+    background-color: white;
+    /* opacity: 80%; */
+    height: 80px;
+    margin-left: 13%;
+    margin-top: 10%;
+    align-content: center;
+    line-height: 20px;
+}
+.sec5 p{
+    color: grey;
+}
+.sec5 h1{
+    letter-spacing: 2px;
+    font-size: 19px;
+}
+.sec6{
+    /* border: 2px solid; */
+    height: 600px;
+    background-image: url(./Rayromano/Assests/3.jpg);
+    background-size: 100% 100%;
+    background-attachment: fixed;
+}
+.sec6 div{
+    /* border: 2px solid red; */
+    /* background-color: white; */
+    /* opacity: 80%; */
+    /* height: 80px; */
+    width: 20%;
+    margin-left: 10%;
+    margin-top: 10%;
+    align-content: center;
+}
+.sec6 h1{
+    background-color: rgba(255, 255, 255, .6);
+    margin-top: 25%;
+    opacity: 80%;
+    height: 80px;
+    margin-left: 4%;
+
+    letter-spacing: 10px;
+    align-content: center;
+    text-align: center;
+    margin-left: 10%;
+    letter-spacing: 15px;
+    font-family: futura-pt;
+    /* font-size: 2.8em; */
+    font-weight: bolder;
+}
+.sec7{
+    /* border: 2px solid; */
+    height: 400px;
+}
+.sec7 div{
+    /* border: 2px solid red; */
+    background-color: white;
+    /* opacity: 80%; */
+    height: 80px;
+    margin-left: 13%;
+    margin-top: 10%;
+    align-content: center;
+    line-height: 20px;
+    font-family: futura-pt;
+}
+.sec7 p{
+    color: grey;
+    letter-spacing: 0.5px;
+}
+.sec7 h1{
+    font-size: 18px;
+}
+.sec8{
+    /* border: 2px solid; */
+    height: 600px;
+    background-image: url(./Rayromano/Assests/4.jpeg);
+    background-size: 100% 100%;
+    background-attachment: fixed;
+}
+.sec8 div{
+    /* border: 2px solid red; */
+    /* background-color: white; */
+    width: 30%;
+    margin-left: 10%;
+    margin-top: 10%;
+    align-content: center;
+}
+.sec8 h1{
+    margin-top: 10%;
+    opacity: 80%;
+    height: 80px;
+    background-color: rgba(255, 255, 255, .6);
+    align-content: center;
+    text-align: center;
+    margin-left: 8%;
+    letter-spacing: 10px;
+    font-family: futura-pt;
+    /* font-size: 2.8em; */
+    font-weight: bold;
+    font-size: 25px;
+}
+.sec9{
+    /* border: 2px solid; */
+    height: 400px;
+}
+.sec9 div{
+    /* border: 2px solid red; */
+    background-color: white;
+    /* opacity: 80%; */
+    height: 80px;
+    margin-left: 13%;
+    margin-top: 10%;
+    align-content: center;
+    line-height: 20px;
+    font-family: futura-pt;
+}
+.sec9 p{
+    color: grey;
+    letter-spacing: 0.5px;
+}
+.sec9 h1{
+    font-size: 18px;
+}
+.sec10{
+    /* border: 2px solid; */
+    height: 600px;
+    background-image: url(./Rayromano/Assests/5.jpg);
+    background-size: 100% 100%;
+    background-attachment: fixed;
+}
+.sec10 div{
+    /* border: 2px solid red; */
+    /* background-color: white; */
+    opacity: 80%;
+    height: 80px;
+    width: 20%;
+    margin-left: 10%;
+    margin-top: 10%;
+    align-content: center;
+}
+.sec10 h1{
+    margin-top: 10%;
+    opacity: 80%;
+    height: 80px;
+    background-color: rgba(255, 255, 255, .6);
+    align-content: center;
+    text-align: center;
+    margin-left: 8%;
+    letter-spacing: 10px;
+    font-family: futura-pt;
+    /* font-size: 2.8em; */
+    font-weight: bold;
+    font-size: 25px;
+}
+.sec11 {
+    /* border: 2px solid; */
+    height: 600px;
+}
+#sec_11{
+    display: flex;
+    gap: 5%;
+    justify-content: center;
+}
+#sec1_11{
+    display: flex;
+    gap: 5%;
+    justify-content: center;
+}
+.sec11 img{
+    height: 200px;
+    width: 300px;
+}
+.sec11 h6{
+    color: grey;
+}
+#sec2_11{
+    margin-left: 9%;
+    margin-top: 3%;
+}
+.sec12 {
+    /* border: 2px solid; */
+    background-color: black;
+    color: white;
+    height: 150px;
+    margin-top: 20%;
+}
+.sec12 ol{
+    list-style: none;
+    display: flex;
+    justify-content: center;
+    gap: 3%;
+    font-size: 25px;
+}
+.sec13{
+    height: 100px;
+    background-color: white;
+}
